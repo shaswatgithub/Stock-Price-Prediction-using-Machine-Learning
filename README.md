@@ -1,0 +1,3 @@
+📘 Project Summary: Stock Price Prediction using Machine Learning
+
+This project focuses on **predicting stock prices** using Machine Learning and Deep Learning (LSTM) techniques. It includes **technical analysis**, data preprocessing, feature scaling, and model building with **Sequential, Dense, LSTM, and Dropout layers**. The project uses **Google stock price data** and involves **visualizing results** for better interpretation. It is inspired by real **research papers** and includes PPT, documentation, and source code. Ideal for anyone looking for a **complete, easy-to-understand stock prediction project**.
